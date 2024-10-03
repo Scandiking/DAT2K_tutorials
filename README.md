@@ -8,6 +8,12 @@ This repository consists of `.sql` script files from the Database 2 course.
 
 Literature: Connolly T. and Begg C. (2015) _Database Systems: A Practical Approach to Design, Implementation, and Management._ 6th. edition, Pearson Education. 
 
+---
+
+`Tutorial{#}` are tasks to be done given out by the lecturer. They are unfortunately not fit for sharing due to copyrighted material, but comments will explain what task the query is for. Comments are also as always added for my own learning's sake.
+
+---
+
 ### [Learning outcome:](https://www.usn.no/english/academics/study-and-courseplans/#/emne/DAT2000_1_2024_V%C3%85R)
 - #### Knowledge
   - key tasks in database administration and -security, such as authorization and access control, backup and recovery, replication and synchronization
