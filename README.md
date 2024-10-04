@@ -40,6 +40,10 @@ Literature: Connolly T. and Begg C. (2015) _Database Systems: A Practical Approa
     
     
 - [ ] (Tutorial 5 and 6 is replaced with _Cloud solutions and PostgreSQLV3.pdf_ and _Exam DAT2000 2022.pdf_)
+  - >However, in this tutorial, we will try one of the two free cloud-based database offerings mentioned in 
+this [blog](https://www.dbi-services.com/blog/a-free-postgresql-cloud-database/), which is ElephantSQL. We try free package named “TINY TURTLE” ☺ and then create a new 
+account or sign up with Google account to save time
+  - ~~ElephantSQL~~ is [shutting down](https://www.elephantsql.com/blog/end-of-life-announcement.html). Therefore I have used the other option listed instead, [Heroku](https://www.heroku.com/).
 
 - [ ] [Tutorial7.sql]
   - Server installation, setup, and configuration
