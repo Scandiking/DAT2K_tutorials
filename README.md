@@ -24,7 +24,7 @@ Literature: Connolly T. and Begg C. (2015) _Database Systems: A Practical Approa
    - apply queries in Section 2 provided in this [link](https://postgresqltutorial.com)
 
 
-- [ ] [Tutorial3.sql]()
+- [x] [Tutorial3.sql](https://github.com/Scandiking/DAT2K_tutorials/blob/main/Tutorial3.sql)
   
    - Getting information about tables
    - Primary Key and Foreign Key Information
@@ -33,7 +33,7 @@ Literature: Connolly T. and Begg C. (2015) _Database Systems: A Practical Approa
    - Information about check constraints
 
 
-- [ ] [Tutorial4.sql]
+- [x] [Tutorial4.sql](https://github.com/Scandiking/DAT2K_tutorials/blob/main/Tutorial4.sql)
   - Database physical storage in PostgreSQL
   - Tablespaces
   - Indexes in PostgreSQL
