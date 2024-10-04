@@ -20,7 +20,7 @@ Literature: Connolly T. and Begg C. (2015) _Database Systems: A Practical Approa
 
  - [x] [Tutorial2.sql](https://github.com/Scandiking/DAT2K_tutorials/blob/main/Tutorial2.sql)
 
-   - Importing the `dvdrental` database and
+   - Importing the [`dvdrental` database](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) and
    - apply queries in Section 2 provided in this [link](https://postgresqltutorial.com)
 
 
