@@ -46,7 +46,7 @@ account or sign up with Google account to save time
   - ~~ElephantSQL~~ is [shutting down](https://www.elephantsql.com/blog/end-of-life-announcement.html). Therefore I have used the other option listed instead, ~~[Heroku](https://www.heroku.com/).~~
   - ~~Heroku~~ is bought by Salesforce who is no longer providing any free tiers.
     - The point of the tutorial is anyway nothing but connecting the database to a server-based one and connecting to it trough PostgreSQL.
-  - Exam DAT2000 2022.pdf is in progress...
+  - [Exam DAT2000 2022.pdf](https://github.com/Scandiking/DAT2K_tutorials/blob/main/Exam%20DAT2000%202022.md) is in progress...
 
 - [ ] [Tutorial7.sql]
   - Server installation, setup, and configuration
