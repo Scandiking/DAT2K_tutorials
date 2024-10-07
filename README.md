@@ -43,7 +43,10 @@ Literature: Connolly T. and Begg C. (2015) _Database Systems: A Practical Approa
   - >However, in this tutorial, we will try one of the two free cloud-based database offerings mentioned in 
 this [blog](https://www.dbi-services.com/blog/a-free-postgresql-cloud-database/), which is ElephantSQL. We try free package named “TINY TURTLE” ☺ and then create a new 
 account or sign up with Google account to save time
-  - ~~ElephantSQL~~ is [shutting down](https://www.elephantsql.com/blog/end-of-life-announcement.html). Therefore I have used the other option listed instead, [Heroku](https://www.heroku.com/).
+  - ~~ElephantSQL~~ is [shutting down](https://www.elephantsql.com/blog/end-of-life-announcement.html). Therefore I have used the other option listed instead, ~~[Heroku](https://www.heroku.com/).~~
+  - ~~Heroku~~ is bought by Salesforce who is no longer providing any free tiers.
+    - The point of the tutorial is anyway nothing but connecting the database to a server-based one and connecting to it trough PostgreSQL.
+  - Exam DAT2000 2022.pdf is in progress...
 
 - [ ] [Tutorial7.sql]
   - Server installation, setup, and configuration
